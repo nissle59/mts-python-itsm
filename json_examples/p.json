@@ -1,0 +1,118 @@
+{
+  "type": "task",
+  "root": {
+    "task-sla": "14.10.2022 10:07:26 (Россия/Москва GMT+3)",
+    "itsm-smart": "https://lks.mts.ru/Info/Containers/App/SmartITSM/forms/detail.asp?tasid=TAS000005353211&tasop=select",
+    "itsm-remedy": "http://0000remmt01.msk.mts.ru/arsys/shared/mts_redirect.jsp?/arsys/forms/0001remars00/TMS%3ATask/RA%2DView%20%2D%20ru?qual=%271%27%3D%22TAS000005353211%22",
+    "initiator": "Михайлов Никита Викторович",
+    "login": "nvm_test",
+    "department": "Тестовая УЗ",
+    "job-position": "проверка",
+    "email": "nvm_test@mts.ru",
+    "request-type": "Запрос на доступ",
+    "task-header": "Предоставление доступа",
+    "request-number": "RA0000004510046",
+    "task-number": "TAS000005353211",
+    "creation-date": "11.10.2022 8:52:22 (Россия/Москва GMT+3)",
+    "system": "AAA RRN",
+    "role": "Оператор",
+    "access-type": "AccessType",
+    "description": "Предоставление доступа к AAA RRN с ролью Оператор;",
+    "network-segment": "МР Юг",
+    "comment": "В рамках выполнения служебных обязанностей по эксплуатации транспортных сетей.",
+    "getters": [
+      {
+        "family-name": "Цокаев",
+        "first-name": "Хамид",
+        "last-name": "Абдусаидович",
+        "login": "katsokay",
+        "department": "Группа эксплуатации сети",
+        "job-position": "руководитель группы",
+        "email": "katsokay@mts.ru"
+      },
+      {
+        "family-name": "Сааев",
+        "first-name": "Мовлди",
+        "last-name": "Салаудинович",
+        "login": "mssaayev",
+        "department": "Группа эксплуатации сети",
+        "job-position": "инженер",
+        "email": "mssaayev@mts.ru"
+      },
+      {
+        "family-name": "Зильбухаров",
+        "first-name": "Дук-Ваха",
+        "last-name": "Адамович",
+        "login": "dazilbuk",
+        "department": "Группа эксплуатации сети",
+        "job-position": "инженер",
+        "email": "dazilbuk@mts.ru"
+      },
+      {
+        "family-name": "Исмаилов",
+        "first-name": "Тимур",
+        "last-name": "Умалатович",
+        "login": "tuismail",
+        "department": "Группа эксплуатации сети",
+        "job-position": "ведущий инженер",
+        "email": "timur.ismailov@mts.ru"
+      },
+      {
+        "family-name": "Юсупова",
+        "first-name": "Диана",
+        "last-name": "Исаевна",
+        "login": "diyusup1",
+        "department": "Группа эксплуатации сети",
+        "job-position": "инженер",
+        "email": "diyusup1@mts.ru"
+      },
+      {
+        "family-name": "Истамилов",
+        "first-name": "Дени",
+        "last-name": "Баудинович",
+        "login": "dbistami",
+        "department": "Группа эксплуатации сети",
+        "job-position": "старший инженер",
+        "email": "deni.istamilov@mts.ru"
+      },
+      {
+        "family-name": "Юхигов",
+        "first-name": "Ильяс",
+        "last-name": "Рамзанович",
+        "login": "iryukhigov",
+        "department": "Группа эксплуатации сети",
+        "job-position": "инженер",
+        "email": "iryukhigov@mts.ru"
+      },
+      {
+        "family-name": "Хантиев",
+        "first-name": "Расул",
+        "last-name": "Бадрудинович",
+        "login": "rbkhantiye",
+        "department": "Группа эксплуатации сети",
+        "job-position": "инженер",
+        "email": "rbkhantiye@mts.ru"
+      }
+    ],
+    "solved": [
+      {
+        "#TAS000005290846": {
+          "status": "Закрыт (Успешно)",
+          "date": "29.09.2022 9:30:32 Россия/Москва GMT+3",
+          "team": "Automation Virtual Group",
+          "user": "Automation V User",
+          "solution": "Группа 0600 G UNMS_23 users добавлена."
+        }
+      },
+      {
+        "#TAS000006842656": {
+          "status": "Закрыт (Успешно)",
+          "date": "24.07.2022 19:06:32 Россия/Москва GMT+3",
+          "team": "Automation Virtual Group",
+          "user": "Automation V User",
+          "solution": "Группа 0600 G UNMS_23 users добавлена."
+        }
+      }
+    ]
+  }
+}
